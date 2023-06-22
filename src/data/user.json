@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "player": {
+            "name": "Minh Cường",
+            "point": "19"
+        }
+    },
+    {
+        "id": 2,
+        "player": {
+            "name": "Thiên Phú",
+            "point": "20"
+        }
+    }
+]
